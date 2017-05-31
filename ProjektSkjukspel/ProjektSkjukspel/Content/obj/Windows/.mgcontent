@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Skola/Spelutveckling/Tillämpade datastrukturer och algoritmer/Projekt/ProjektSkjukspel/ProjektSkjukspel/Content/tileNonwalkable.png</File>
+    <File>D:/Skola/Spelutveckling/Tillämpade datastrukturer och algoritmer/Projekt/ProjektSkjukspel/ProjektSkjukspel/Content/tileWalkable.png</File>
+    <File>D:/Skola/Spelutveckling/Tillämpade datastrukturer och algoritmer/Projekt/ProjektSkjukspel/ProjektSkjukspel/Content/playerTexture.png</File>
+    <File>D:/Skola/Spelutveckling/Tillämpade datastrukturer och algoritmer/Projekt/ProjektSkjukspel/ProjektSkjukspel/Content/tileTarget.png</File>
+    <File>D:/Skola/Spelutveckling/Tillämpade datastrukturer och algoritmer/Projekt/ProjektSkjukspel/ProjektSkjukspel/Content/tileTransparent.png</File>
+    <File>D:/Skola/Spelutveckling/Tillämpade datastrukturer och algoritmer/Projekt/ProjektSkjukspel/ProjektSkjukspel/Content/hud_1024x768.png</File>
+    <File>D:/Skola/Spelutveckling/Tillämpade datastrukturer och algoritmer/Projekt/ProjektSkjukspel/ProjektSkjukspel/Content/tilePurple.png</File>
+    <File>D:/Skola/Spelutveckling/Tillämpade datastrukturer och algoritmer/Projekt/ProjektSkjukspel/ProjektSkjukspel/Content/gameOver_1024x768.png</File>
+    <File>D:/Skola/Spelutveckling/Tillämpade datastrukturer och algoritmer/Projekt/ProjektSkjukspel/ProjektSkjukspel/Content/projectile.png</File>
+    <File>D:/Skola/Spelutveckling/Tillämpade datastrukturer och algoritmer/Projekt/ProjektSkjukspel/ProjektSkjukspel/Content/projectilePurple.png</File>
+    <File>D:/Skola/Spelutveckling/Tillämpade datastrukturer och algoritmer/Projekt/ProjektSkjukspel/ProjektSkjukspel/Content/projectilePurplePickUp.png</File>
+  </SourceFiles>
+</SourceFileCollection>

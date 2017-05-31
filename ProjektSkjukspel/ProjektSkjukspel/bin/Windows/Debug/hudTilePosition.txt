@@ -1,0 +1,8 @@
+32;32;tileWalkable
+160;32;tileNonwalkable
+288;32;tileTarget
+416;32;projectilePurplePickUp
+544;32;tileTransparent
+672;32;tileTransparent
+800;32;spawnPlayer
+928;32;spawnEnemy
