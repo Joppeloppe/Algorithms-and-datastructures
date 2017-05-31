@@ -1,0 +1,7 @@
+C:\Users\Spellabbet\Documents\Code\Inlämningsuppgift 3\Inlämningsuppgift 3\bin\Debug\Inlämningsuppgift 3.exe.config
+D:\Skola\Spelutveckling\Tillämpade datastrukturer och algoritmer\Inlämningsuppgifter\Inlämningsuppgift 3\Inlämningsuppgift 3\Inlämningsuppgift 3\bin\Debug\Inlämningsuppgift 3.exe.config
+D:\Skola\Spelutveckling\Tillämpade datastrukturer och algoritmer\Inlämningsuppgifter\Inlämningsuppgift 3\Inlämningsuppgift 3\Inlämningsuppgift 3\bin\Debug\Inlämningsuppgift 3.exe
+D:\Skola\Spelutveckling\Tillämpade datastrukturer och algoritmer\Inlämningsuppgifter\Inlämningsuppgift 3\Inlämningsuppgift 3\Inlämningsuppgift 3\bin\Debug\Inlämningsuppgift 3.pdb
+D:\Skola\Spelutveckling\Tillämpade datastrukturer och algoritmer\Inlämningsuppgifter\Inlämningsuppgift 3\Inlämningsuppgift 3\Inlämningsuppgift 3\obj\Debug\Inlämningsuppgift 3.csprojResolveAssemblyReference.cache
+D:\Skola\Spelutveckling\Tillämpade datastrukturer och algoritmer\Inlämningsuppgifter\Inlämningsuppgift 3\Inlämningsuppgift 3\Inlämningsuppgift 3\obj\Debug\Inlämningsuppgift 3.exe
+D:\Skola\Spelutveckling\Tillämpade datastrukturer och algoritmer\Inlämningsuppgifter\Inlämningsuppgift 3\Inlämningsuppgift 3\Inlämningsuppgift 3\obj\Debug\Inlämningsuppgift 3.pdb
